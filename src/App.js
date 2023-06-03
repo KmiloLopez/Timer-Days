@@ -27,7 +27,7 @@ function App() {
             <div className="tittle"><h1>Date Calculator</h1></div>
             <div className="container">
                 <div className="date-inputs">
-                    <label>Enter Date ♥ Format MM/DD/YYYY:</label>
+                    <label>Enter Date → Format MM/DD/YYYY:</label>
                     <DatePicker
                         selected={selectedDate}
                         onChange={handleDateChange}
