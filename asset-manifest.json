@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Timer-Days/static/css/main.39a9273b.css",
+    "main.js": "/Timer-Days/static/js/main.856c437d.js",
+    "static/js/787.696ee976.chunk.js": "/Timer-Days/static/js/787.696ee976.chunk.js",
+    "index.html": "/Timer-Days/index.html",
+    "main.39a9273b.css.map": "/Timer-Days/static/css/main.39a9273b.css.map",
+    "main.856c437d.js.map": "/Timer-Days/static/js/main.856c437d.js.map",
+    "787.696ee976.chunk.js.map": "/Timer-Days/static/js/787.696ee976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a9273b.css",
+    "static/js/main.856c437d.js"
+  ]
+}
